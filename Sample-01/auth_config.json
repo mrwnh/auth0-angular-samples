@@ -1,7 +1,7 @@
 {
-  "domain": "ureed.eu.auth0.com",
-  "clientId": "eZtdJ2zhxEZnv6kY3kQVhVy7dLjmJ2xY",
-  "audience": "nGfEmBWACiaxFyvab5G1F6GpsnQR4MD0UbIGwuw1G2RMIOaPGUqVXzZ0qJGZy8Nc",
-  "apiUri": "http://localhost:3001",
-  "appUri": "http://localhost:4200"
+  "domain": "domain",
+  "clientId": "CLIENTID",
+  "audience": "AUDIENCEID",
+  "apiUri": "APIURL",
+  "appUri": "APPID"
 }
